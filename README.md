@@ -50,7 +50,6 @@
       This is your article or content page for "The Illusion of Luxury". Here you can write about how influencers portray unrealistic lifestyles and how brands may sometimes overlook the authenticity of these portrayals.
     </p>
 
-    <a href="index.html">← Back to Home</a>
   </main>
 
 </body>
